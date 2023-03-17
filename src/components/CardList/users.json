@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "Elon Reeve Musk",
+      "tweets": 777,
+      "followers": 100500,
+      "avatar": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
+    },
+
+    {
+      "id": 2,
+      "user": "Ethan Davis",
+      "tweets": 13,
+      "followers": 380,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/186/186313.png"
+
+    },
+    {
+      "id": 3,
+      "user": "Olivia Thompson",
+      "tweets": 230,
+      "followers": 1200,
+      "avatar": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-Vector-PNG-Images.png"
+    },
+    {
+      "id": 4,
+      "user": "Liza Martinez",
+      "tweets": 680,
+      "followers": 5038,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/374/374995.png"
+    },
+    {
+      "id": 5,
+      "user": "William Wilson",
+      "tweets": 1230,
+      "followers": 65780,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/146/146031.png"
+    },
+    {
+      "id": 6,
+      "user": "Sophia Collins",
+      "tweets": 1,
+      "followers": 15,
+      "avatar": "https://drbirolaygun.com/trex/assets/img/yorumlar/21863268832540227064.jpg"
+    },
+    {
+      "id": 7,
+      "user": "Anna Lee",
+      "tweets": 446,
+      "followers": 5679,
+      "avatar": "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-512.png"
+    },
+    {
+      "id": 8,
+      "user": "Mike Scott",
+      "tweets": 2510,
+      "followers": 689345,
+      "avatar": "https://cdn3.iconfinder.com/data/icons/generic-avatars/128/avatar_portrait_man_male-512.png"
+    },
+    {
+      "id": 9,
+      "user": "Christopher Nelson",
+      "tweets": 15,
+      "followers": 670,
+      "avatar": "https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-PNG-Pic.png"
+    }
+  ]
+}
