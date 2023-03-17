@@ -32,7 +32,7 @@ export const Card = ({ user }) => {
 
   useEffect(() => {
     localStorage.setItem(user.id, JSON.stringify({ isFollowing, followers }));
-  }, [isFollowing]);
+  }, [isFollowing, followers,user.id]);
 
   return (
     <Wrapper>

@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import picture from 'assets/picture.svg'
-import user from 'assets/user.svg'
 
 export const Wrapper = styled.div`
   height: 460px;
